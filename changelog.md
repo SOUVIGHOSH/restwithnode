@@ -22,3 +22,7 @@ this is an automatic request which determines whether follow up request is allow
 
 1. Uniform Interface: clearly defined API endpoints with clear request & response structure
 2. Steteless Interaction: server and client don't store any connection history, every request handled separately
+
+## what is CORS
+
+cors stands for cross origin resource sharing, by default this is not allowed by servers, so we by default can't share resources accross domains/servers, however it can be overwritten
